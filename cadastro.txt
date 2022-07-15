@@ -7,5 +7,3 @@ TesteRafa1
 TesteRafa1Teste Maicon
 Vem Ser 9ª edição, faca na caveira! 
 #vemser
-
-TestePessoa
